@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url("./SourceSans/SourceSansPro-Black.otf")
+}
+
+* {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
 header {
     background-image: url(images/pic_1.jpg);
     background-size: cover;
