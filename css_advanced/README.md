@@ -10,4 +10,4 @@ It is 1am on wednesday(thursday) and I've worked on this all week. I'm writting 
 
 HOWEVER, I am proud that I've at least got most of the images, and colors, and correct alignment for let's say about 70% of it. I think once I've become more competent with CSS I'll return to this and complete it.
 
-The site is live and hosted by github pages which can be accessed [here](https://your-github-pages-link)
+The site is live and hosted by github pages which can be accessed [here](https://maxnchief.github.io/figma-site-pages/)
